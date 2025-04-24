@@ -1,0 +1,10 @@
+//Quatro caracteres
+#include <stdio.h>
+
+int main() {
+    char a = 'A', b = 'B', c = 'C', d = 'D';
+
+    printf("Caracteres: %c, %c, %c, %c\n", a, b, c, d);
+
+    return 0;
+}
