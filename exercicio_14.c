@@ -1,4 +1,6 @@
-// Exercício 14: Declarar dois valores reais e cinco caracteres
+/* Exercício 14: Esse código pede dois valores reais ( a , b ) e cinco caracteres ao usuário (c1, c2, c3, c4 e c5).  
+Depois, ele exibe os valores reais e os cinco caracteres digitados.  */
+
 #include <stdio.h>
 
    int main() {
