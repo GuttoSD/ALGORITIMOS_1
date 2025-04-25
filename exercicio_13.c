@@ -1,4 +1,6 @@
-// Exercício 13: Calcular a idade em meses
+/* Esse código pede a data de nascimento do usuário e calcula a idade em meses.  
+Ele usa o ano atual e a data de nascimento para calcular a diferença em meses e exibir a idade do usuário em meses. */
+
 #include <stdio.h>
 
    int main() {
