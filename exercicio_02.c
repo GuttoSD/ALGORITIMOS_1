@@ -1,4 +1,6 @@
-// Exercício 2: Identificar se a altura do usuário é maior ou menor da altura média nacional
+/* Esse código pede para o usuário digitar sua altura e compara com a altura média nacional (1.70 metros). 
+Depois, ele mostra uma mensagem dizendo se a altura da pessoa é maior, menor ou igual à média nacional. */
+
 #include <stdio.h>
 
   int main() {
