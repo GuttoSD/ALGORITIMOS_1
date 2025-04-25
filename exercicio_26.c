@@ -1,4 +1,7 @@
-// Exercício 26: Verificar se a soma de dois números inteiros é maior ou igual a 10
+/* Lê dois números inteiros digitados.
+Soma os dois valores informados.
+Exibe se a soma é maior ou igual a 10. */
+
 #include <stdio.h>
 
    int main() {
