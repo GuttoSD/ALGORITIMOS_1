@@ -1,6 +1,6 @@
 /* Esse código pede dois números inteiros e realiza a divisão do primeiro pelo segundo.  
 Antes de fazer a divisão, ele verifica se o divisor (segundo número) é diferente de zero, para evitar erro.  
-Se for zero, mostra uma mensagem de erro. */
+Se for zero, vai dar erro. */
 
 #include <stdio.h>
 
