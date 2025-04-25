@@ -1,4 +1,7 @@
-// Exercício 5: Calcular a fórmula de Bhaskara
+/* Esse código usa a fórmula de Bhaskara para encontrar as raízes de uma equação do segundo grau. 
+Ele pede os valores de a, b e c, calcula o delta e verifica se é possível ter raízes reais. 
+Se o delta for negativo, informa que não há raízes reais; se for positivo ou zero, calcula e mostra as duas raízes. */
+
 #include <stdio.h>
 #include <math.h>
 
