@@ -1,4 +1,6 @@
-// Exercício 8: Solicitar nome, idade, gênero e altura
+/* Esse código solicita ao usuário seu nome, idade, gênero e altura.  
+Depois de receber os dados, ele exibe todas as informações na tela.  */
+
 #include <stdio.h>
 
    int main() {
