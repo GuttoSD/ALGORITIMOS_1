@@ -1,4 +1,7 @@
-// Exercício 22: Calcular a resistência equivalente de dois resistores em paralelo
+/* O código recebe o valor de duas resistências em paralelo e calcula a resistência equivalente.  
+A fórmula usada é 1 / ((1 / r1) + (1 / r2)), que é a fórmula para resistores em paralelo.  
+O valor da resistência equivalente é então exibido em ohms. */
+
 #include <stdio.h>
 
    int main() {
