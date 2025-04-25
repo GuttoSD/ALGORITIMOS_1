@@ -1,4 +1,7 @@
-// Exercício 20: Receber 3 caracteres e retorná-los em ordem alfabética
+/* Esse código recebe três caracteres do usuário e os ordena em ordem alfabética.  
+O algoritmo compara os caracteres e os troca de lugar usando uma variável temporária "temp" para garantir que estejam na ordem correta.  
+Depois, mostra os caracteres organizados alfabeticamente. */
+
 #include <stdio.h>
 
    int main() {
