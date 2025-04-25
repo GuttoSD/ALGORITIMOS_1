@@ -1,4 +1,7 @@
-// Exercício 28: Receber um valor real
+/* Lê um valor real informado pelo usuário.
+Armazena o número com casas decimais.
+Exibe o valor formatado com duas casas. */
+
 #include <stdio.h>
 
    int main() {
