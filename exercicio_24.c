@@ -1,4 +1,7 @@
-// Exercício 24: Alistamento militar obrigatório
+/* Verifica se o cidadão deve se alistar no exército.
+   Considera idade, sexo e se há alguma deficiência.
+   Informa se o alistamento é obrigatório ou não. */
+
 #include <stdio.h>
 #include <string.h>
 
