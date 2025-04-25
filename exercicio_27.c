@@ -1,4 +1,7 @@
-// Exercício 27: Receber um valor em float e retornar um inteiro
+/* Lê um número real (float) digitado.
+Converte o valor para inteiro usando casting.
+Exibe o valor já convertido na tela. */
+
 #include <stdio.h>
 
    int main() {
