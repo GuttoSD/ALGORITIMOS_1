@@ -1,4 +1,7 @@
-// Exercício 25: Receber 6 números possíveis de um sorteio
+/* Lê 6 números informados pelo usuário.
+Armazena os valores em um vetor.
+Exibe os números como os escolhidos para um sorteio. */
+
 #include <stdio.h>
 
    int main() {
