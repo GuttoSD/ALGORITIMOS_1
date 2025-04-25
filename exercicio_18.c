@@ -1,4 +1,4 @@
-/* Exercício 18: Esse código solicita ao usuário que digite uma letra.  
+/* Esse código solicita ao usuário que digite uma letra.  
 Se o usuário digitar a letra 'o' (minúscula ou maiúscula), o programa responde com 'e'.  
 Caso contrário, ele fala que o usuário digitou uma letra diferente. */
 
