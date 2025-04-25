@@ -1,4 +1,6 @@
-// Exercício 4: Mostrar os anos bissextos dentro do intervalo
+/* Esse código pede dois anos ao usuário (um inicial e um final) e mostra todos os anos bissextos dentro desse intervalo. 
+Ele usa um laço para verificar cada ano e aplica a regra dos anos bissextos: múltiplos de 4, mas não de 100, exceto se também forem múltiplos de 400. */
+
 #include <stdio.h>
 
   int main() {
