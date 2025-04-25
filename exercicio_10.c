@@ -1,4 +1,7 @@
-// Exercício 10: Exibir um cardápio e permitir a escolha
+/* Exercício 10: Esse código exibe um cardápio com 5 opções e permite que o usuário escolha uma delas digitando um número.  
+Usa a estrutura `switch` para identificar a escolha e mostrar a opção selecionada.  
+Se o número digitado não corresponder a nenhuma opção, informa que é inválido. */
+
 #include <stdio.h>
 
    int main() {
