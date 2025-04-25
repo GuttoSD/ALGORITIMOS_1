@@ -1,4 +1,4 @@
-/* Exercício 16: Esse código pede as três dimensões (comprimento, largura e altura) de um objeto em metros.  
+/* Esse código pede as três dimensões (comprimento, largura e altura) de um objeto em metros.  
 Essas dimensões são armazenadas em variáveis do tipo "float" e exibidas com duas casas decimais na tela.  */
 
 #include <stdio.h>
