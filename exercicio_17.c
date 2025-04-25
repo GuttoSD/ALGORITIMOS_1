@@ -1,4 +1,4 @@
-/* Exercício 17: Esse código recebe 5 números inteiros e os ordena de forma crescente usando o algoritmo de ordenação por troca (bubble sort).  
+/* Esse código recebe 5 números inteiros e os ordena de forma crescente usando o algoritmo de ordenação por troca (bubble sort).  
 Após ordenar os números, ele exibe os valores na ordem crescente. */
 
 #include <stdio.h>
