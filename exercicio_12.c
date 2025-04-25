@@ -1,4 +1,7 @@
-// Exercício 12: Definir número de letras que a pessoa pode escrever
+/* Esse código conta quantas letras o usuário digita até ele digitar '0'.  
+Usa a função `getchar()` para ler cada letra, e a variável `contador` é incrementada a cada letra digitada.  
+Quando o usuário digita '0', o loop é automaticamente interrompido e o total de letras digitadas é mostrado. */
+
 #include <stdio.h>
 
    int main() {
