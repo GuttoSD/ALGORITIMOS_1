@@ -1,7 +1,6 @@
 /* Esse código recebe três valores digitados pelo usuário e verifica se eles podem formar um triângulo. 
-Se sim, ele identifica qual tipo de triângulo é: equilátero (todos os lados iguais), isósceles (dois lados iguais) ou escaleno (todos diferentes). 
-Caso os valores não obedeçam à condição necessária para formar um triângulo, ele avisa que não se trata de um triângulo.
-É um código simples e direto pra entender a lógica básica dos tipos de triângulos.*
+Se sim, ele identifica qual tipo de triângulo é: equilátero, isósceles ou escaleno. 
+Caso os valores não obedeçam à condição necessária para formar um triângulo, ele avisa que não se trata de um triângulo.*/
 
 #include <stdio.h>
 
