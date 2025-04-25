@@ -5,12 +5,12 @@ Exibe se a soma é maior ou igual a 10. */
 #include <stdio.h>
 
    int main() {
-    int a, b;
+    int num_1, num_2;
 
     printf("Digite dois numeros inteiros: ");
-    scanf("%d %d", &a, &b);
+    scanf("%d %d", &num_1, &num_2);
 
-    if (a + b >= 10) {
+    if (num_1 + num_2 >= 10) {
         printf("A soma dos numeros é maior ou igual a 10.\n");
     } else {
         printf("A soma dos numeros nao é maior ou igual a 10.\n");
